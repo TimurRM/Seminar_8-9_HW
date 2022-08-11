@@ -1,0 +1,15 @@
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\bin\Debug\net6.0\Task_68_9.exe
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\bin\Debug\net6.0\Task_68_9.deps.json
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\bin\Debug\net6.0\Task_68_9.runtimeconfig.json
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\bin\Debug\net6.0\Task_68_9.dll
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\bin\Debug\net6.0\Task_68_9.pdb
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.csproj.AssemblyReference.cache
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.AssemblyInfoInputs.cache
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.AssemblyInfo.cs
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.csproj.CoreCompileInputs.cache
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.dll
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\refint\Task_68_9.dll
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.pdb
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\Task_68_9.genruntimeconfig.cache
+D:\Users\timur\Desktop\Seminar_8-9_HW\Task_68_9\obj\Debug\net6.0\ref\Task_68_9.dll
